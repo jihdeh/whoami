@@ -64,5 +64,7 @@ Greatest Challenges i have faced technically:
     - We decided to move the application's backend processing service to Google kubernetes as the service helped with load balancing and scaling, everytime we had high requests, new servers are spun up to handle the requests sharing the load across servers, and it scaled back down anytime we didn't have much requests.
     
 I am quite resourceful, if i can't come up with a solution, i know how to google for solutions, using google queries, deep search stuff.
+
 I like learning new things, trying them out, to see if it'll be useful in a project i'm working on.
+
 I'm passionate about what i do, passionate about adding value to where-ever i find myself, giving my best and delivering quality code.
