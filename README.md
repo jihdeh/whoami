@@ -72,3 +72,8 @@ I'm passionate about what i do, passionate about adding value to where-ever i fi
 [LinkedIn profile](https://www.linkedin.com/in/babajidefowotade)
 
 [Curriculum Vitae](https://stackoverflow.com/cv/jihdehs)
+
+I love to watch cartoons, my favourites are,
+ - Boondocks
+ - Adventures of Gumball
+ - Spongebob
