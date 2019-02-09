@@ -3,7 +3,7 @@
 
 ### I'm Babajide, and i'm a Software Engineer.
 
-I have 5 years of professional software development experience and 1 year self taught coding experience. Living in Lagos, Nigeria, i have been working remotely for the past 4 years, so i pretty much have experience getting up late in the night to meet up with meetings or fix a bug.
+I have 5 years of professional software development experience and 1 year as a self taught engineer. Living in Lagos, Nigeria, i have been working remotely for the past 4 years, so i pretty much have experience getting up late in the night to meet up with meetings or fix a bug.
 
 Proficient Technical skills:
   - Frontend
