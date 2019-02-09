@@ -73,7 +73,7 @@ I'm passionate about what i do, passionate about adding value to where-ever i fi
 
 [Curriculum Vitae](https://stackoverflow.com/cv/jihdehs)
 
-I love to watch cartoons, my favourites are,
+I love to watch cartoons 😜, my favourites are:
  - Boondocks
  - Adventures of Gumball
  - Spongebob
