@@ -69,6 +69,6 @@ I like learning new things, trying them out, to see if it'll be useful in a proj
 
 I'm passionate about what i do, passionate about adding value to where-ever i find myself, giving my best and delivering quality code.
 
-[Linked](https://www.linkedin.com/in/babajidefowotade)
+[LinkedIn profile](https://www.linkedin.com/in/babajidefowotade)
 
-[CV](https://stackoverflow.com/cv/jihdehs)
+[Curriculum Vitae](https://stackoverflow.com/cv/jihdehs)
