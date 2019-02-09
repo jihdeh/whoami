@@ -68,3 +68,6 @@ I am quite resourceful, if i can't come up with a solution, i know how to google
 I like learning new things, trying them out, to see if it'll be useful in a project i'm working on.
 
 I'm passionate about what i do, passionate about adding value to where-ever i find myself, giving my best and delivering quality code.
+
+[Linked](https://www.linkedin.com/in/babajidefowotade)
+[CV](https://stackoverflow.com/cv/jihdehs)
