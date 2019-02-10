@@ -45,7 +45,7 @@ I'm also a code mentor, you can view my profile here on [Codementor](https://cod
 Staying up to date:
 I stay up to date in a number of ways, following tech blog posts, mentoring people as i get to learn a thing or two sometimes, checking github repository changelogs :)
 
-### Greatest Challenges i have faced technically:
+### Interesting Challenges i have faced technically:
  - Outdated development packages,
    - : - The goal was to upgrade packages on a monolithic project, on both the frontend and the backend
    - Solution 
