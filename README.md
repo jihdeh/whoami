@@ -61,7 +61,7 @@ I stay up to date in a number of ways, following tech blog posts, mentoring peop
 - High requests, failing application,
   - This application requires alot of resources as it processes large video files to give back analysis, everytime there was a high number of requests and video interviews coming through, 1. the site processes requests slow, leading to bad user experience, 2. The server crashes leading to loss of video files taken by users for analysis, the solution at the time was to reach out to them to take the video again.
   - Solution
-    - We decided to move the application's backend processing service to Google kubernetes as the service helped with load balancing and scaling, everytime we had high requests, new servers are spun up to handle the requests sharing the load across servers, and it scaled back down anytime we didn't have much requests.
+    - We decided to move the application's backend processing service to Google kubernetes as the service helped with load balancing and scaling, everytime we had high requests, new servers are spun up to handle the requests sharing the load across servers, and it scaled back down anytime we didn't have many requests.
     
 I am quite resourceful, if i can't come up with a solution, i know how to google for solutions, using google queries, deep search stuff.
 
